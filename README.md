@@ -1,2 +1,3 @@
 # Coding_Journey
-My first journey journal
+My Coding journal
+Author - Doping Tayeng
